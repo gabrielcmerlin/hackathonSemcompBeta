@@ -1,0 +1,32 @@
+.bg-cinza-escuro {
+    background-color: #262D34;
+}
+
+.bg-azul-escuro {
+    background-color: #1a1f24;
+}
+
+.fonte-laranja-titulo {
+    color: #FF571A;
+    font-size: 26px;
+}
+
+.fonte-laranja {
+    color: #FF571A;
+    font-size: 20px;
+}
+
+.fonte-branco {
+    color: white;
+    font-size: 20px;
+}
+
+.fonte-branco-grande {
+    color: white;
+    font-size: 24px;
+    font-weight: bold
+}
+
+.svg-white {
+    fill: white;
+}
